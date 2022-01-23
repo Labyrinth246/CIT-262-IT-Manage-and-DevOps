@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mocha": "^9.1.4",
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module"
+}
